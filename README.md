@@ -17,4 +17,4 @@ LIRI has four commands:
 
 -do-what-it-says
 
-![example](imgpath)
+![example](example.png)
