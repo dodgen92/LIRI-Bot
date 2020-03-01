@@ -1,0 +1,27 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodgen92/LIRI-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dodgen92/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/dodgen92/LIRI-Bot#readme"
+}
