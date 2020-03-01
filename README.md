@@ -6,15 +6,15 @@ Uses Spotify, Axios, Moment, and Dotenv node packages. ($ npm i node-spotify-api
 
 LIRI has four commands:
 
--concert-this
+-concert-this 'artist's name'
 
 
--spotify-this-song
+-spotify-this-song 'song title'
 
 
--movie-this
+-movie-this 'movie title'
 
 
--do-what-it-says
+-do-what-it-says 
 
 ![example](example.png)
